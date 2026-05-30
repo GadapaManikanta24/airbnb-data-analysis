@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏠 Airbnb Data Analysis Project
 
 A full end-to-end data analysis project using Python and MySQL.  
@@ -201,13 +201,6 @@ Open `queries.sql` in MySQL Workbench and execute against the `airbnb_project` d
 - `dropna()` removes entire rows on any null — dataset size reduced after cleaning
 - No `availability_365` or `reviews_per_month` column — limits demand analysis depth
 
----
-
 ## 👤 Author
-
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YOUR_USERNAME)
-=======
-# airbnb-data-analysis
-End-to-end Airbnb data analysis using Python and MySQL. Covers data cleaning with Pandas, SQL analysis using window functions, and data visualisation with Matplotlib. Includes 5 business-focused SQL queries and 6 charts.
->>>>>>> 34c68fac65f4f335c51e311b789e65b167abef97
+**Gadapa Manikanta**
+[LinkedIn](https://linkedin.com/in/gadapa-manikanta-532abb304) | [GitHub](https://github.com/GadapaManikanta24)
